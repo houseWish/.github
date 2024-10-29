@@ -1,5 +1,4 @@
 # 우리이야기
----
 <img width="897" alt="image" src="https://github.com/user-attachments/assets/1f3167ee-1ebc-4666-99ae-8e4d128452b3">
 
 ### 프로젝트 이름
