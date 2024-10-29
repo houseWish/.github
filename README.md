@@ -1,7 +1,4 @@
 # 우리이야기
-단풍톤 플랫폼 소개 레파지토리
-
-
 ---
 <img width="897" alt="image" src="https://github.com/user-attachments/assets/1f3167ee-1ebc-4666-99ae-8e4d128452b3">
 
